@@ -3,17 +3,21 @@
 # A 3D Python Car Racing Game
 3D Python Racing Game USA! The world deserved a 3D Car Racing Game in the legendary Python programming language and I was going to deliver one.
 
-### Install Pygame First
+## Install Pygame First
+```
 pip install Pygame
+```
 
 This will get you the library that the game needs to run.
 
-### How to play:
+## How to play:
 Note: In order to move, you have to shift gears. Currently Left SHFT and CTRL keys shift up and down.
 
+```
 Press "W" Key to Accelerate (Press Gas Pedal)
 Press "S" Key to Brake and Reverse
 Turn with "A" and "D" Keys for Left and Right
+```
 
 This game is a proof of concept as a 3D Python racing game. It plays a background song (included) that should be in the folder where the program is launched. This uses Python 3.10+, PyGame
 
