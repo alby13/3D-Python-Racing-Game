@@ -26,7 +26,7 @@ This game is a proof of concept as a 3D Python racing game. It plays a backgroun
 Version 1.1
 
 Permissions
-You are free to use, modify, distribute, and sublicense the code and content of the "Infinity Internet" project (the "Software") in any manner you choose, without any restrictions.
+You are free to use, modify, distribute, and sublicense the code and content in any manner you choose, without any restrictions.
 
 Attribution
 Attribution to the original author (alby13) of the Software is appreciated but not required.
